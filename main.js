@@ -13,7 +13,7 @@ function Welcome() {
     
         else {
             alert("Type the correct letter. If you have typed the correct letter, type the correct letter at upper case!");
-            window.location.href="content.html"
+            window.location.href="index.html"
         }
 }
 
